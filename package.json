@@ -1,0 +1,6 @@
+{
+  "name": "@code-kudu/branding",
+  "version": "1.0.0",
+  "private": true,
+  "bin": "./scripts/publish.mjs"
+}

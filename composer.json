@@ -1,0 +1,7 @@
+{
+  "name": "code-kudu/branding",
+  "description": "Official brand assets for CodeKudu",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "proprietary"
+}
