@@ -1,6 +1,5 @@
-<a href="https://codekudu.com">
-    <img src="logo/default/code-kudu-logomark.png">
-</a>
+![CodeKudu logo](https://github.com/code-kudu/branding/blob/main/logo/default/code-kudu.svg?raw=true)
+
 
 # CodeKudu Branding
 
