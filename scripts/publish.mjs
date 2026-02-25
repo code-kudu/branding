@@ -38,7 +38,7 @@ function copyFiltered(srcDir, destDir) {
 }
 
 const publicDir = join(targetRoot, "public");
-const brandingDest = join(publicDir, "images", "branding", "code-kudu");
+const brandingDest = join(publicDir, "code-kudu");
 
 copyFiltered(join(brandingRoot, "assets"), publicDir);
 copyFiltered(join(brandingRoot, "icon", "dark"), join(brandingDest, "icon", "dark"));
