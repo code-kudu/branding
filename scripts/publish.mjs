@@ -37,13 +37,12 @@ function copyFiltered(srcDir, destDir) {
   }
 }
 
-const publicDir = join(targetRoot, "public");
-const brandingDest = join(publicDir, "code-kudu");
+const brandingDest = join(targetRoot, "code-kudu");
 
-copyFiltered(join(brandingRoot, "assets"), publicDir);
+copyFiltered(join(brandingRoot, "assets"), brandingDest);
 copyFiltered(join(brandingRoot, "icon", "dark"), join(brandingDest, "icon", "dark"));
 copyFiltered(join(brandingRoot, "icon", "default"), join(brandingDest, "icon", "default"));
 copyFiltered(join(brandingRoot, "logo", "dark"), join(brandingDest, "logo", "dark"));
 copyFiltered(join(brandingRoot, "logo", "default"), join(brandingDest, "logo", "default"));
 
-console.log(`Branding assets published to "${publicDir}"`);
+console.log(`Branding assets published to "${targetRoot}"`);
