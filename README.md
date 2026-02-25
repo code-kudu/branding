@@ -29,6 +29,11 @@ Each variant is provided in the following formats:
 
 <pre>
 branding/
+├── assets/
+│   ├── <a href="assets/app-icon.png">app-icon.png</a>
+│   ├── <a href="assets/app-icon.svg">app-icon.svg</a>
+│   ├── <a href="assets/favicon.png">favicon.png</a>
+│   └── <a href="assets/favicon.svg">favicon.svg</a>
 ├── icon/
 │   ├── dark/
 │   │   ├── <a href="icon/dark/code-kudu-logomark-dark-0.5x.png">code-kudu-logomark-dark-0.5x.png</a>
