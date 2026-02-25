@@ -1,7 +1,8 @@
-<a href="https://codekudu/com">
-    <img src="https://github.com/code-kudu/branding/blob/main/logo/default/code-kudu.svg?raw=true" style="max-width:200px;margin:0 auto;" />
-</a>
-
+<picture style="max-width:200px;margin:0 auto;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/code-kudu/branding/blob/main/logo/dark/code-kudu-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/code-kudu/branding/blob/main/logo/default/code-kudu.svg?raw=true">
+  <img alt="CodeKudu logo" src="https://github.com/code-kudu/branding/blob/main/logo/default/code-kudu.svg?raw=true">
+</picture>
 
 # CodeKudu Branding
 
