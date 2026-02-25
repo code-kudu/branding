@@ -1,4 +1,6 @@
-![CodeKudu logo](https://github.com/code-kudu/branding/blob/main/logo/default/code-kudu.svg?raw=true)
+<a href="https://codekudu/com">
+    <img src="https://github.com/code-kudu/branding/blob/main/logo/default/code-kudu.svg?raw=true" style="max-width:200px;margin:0 auto;" />
+</a>
 
 
 # CodeKudu Branding
